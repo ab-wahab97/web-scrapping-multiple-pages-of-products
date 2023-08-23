@@ -30,17 +30,6 @@ df.to_csv('LaptopPrices.csv')
 
 
 
-# url='https://www.czone.com.pk/laptops-pakistan-ppt.74.aspx?page='+str(i)
-
-# html=requests.get(url).text
-
-# soup=BeautifulSoup(html,'lxml')
-    # link=soup.find('a',id='anNextPage',class_='NextPage').get('href')
-
-    # completelink='https://www.czone.com.pk'+link
-
-        
-    # print(completelink)
 
 
 
